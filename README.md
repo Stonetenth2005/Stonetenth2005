@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Coding+ML;Building+Smart+Systems+🤖;Designing+Digital+Dreams+✨;Fueling+on+Coffee+%26+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Coding+ML;Building+Smart+Systems+🤖;Designing+Digital+Dreams+✨;Fueling+on+Coffee+☕" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌈 About Me
+### About Me
 
 Yo! I'm a **Machine Learning Engineer** with a passion for **Creative Web Design**. 
 I believe code should not just work, it should **dazzle**. 🌟
@@ -20,7 +20,7 @@ I believe code should not just work, it should **dazzle**. 🌟
 
 ---
 
-### 🎨 My Colorful Tech Stack
+### My Tech Stack
 
 <div align="center">
   
@@ -46,18 +46,25 @@ I believe code should not just work, it should **dazzle**. 🌟
 
 ---
 
-### ⚡ Stats & Activity
+### Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stonetenth2005&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stonetenth2005&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <a href="https://github.com/Stonetenth2005">
+    <img src="https://github-readme-stats.vercel.app/api?username=Stonetenth2005&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Stonetenth2005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stonetenth2005&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stonetenth2005&theme=radical&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/Stonetenth2005">
+    <img src="https://streak-stats.demolab.com?user=Stonetenth2005&theme=radical&hide_border=true" alt="streak graph" />
+  </a>
 </div>
+
 
 ---
 
