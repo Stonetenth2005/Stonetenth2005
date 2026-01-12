@@ -66,7 +66,7 @@ Recently I’ve been exploring deep learning, small-scale LLMs, and how to bring
 
 ## Connect
 <div align="center">
-  <a href="https://linkedin.com/in/tushar-srivastava-8a0927253">
+  <a href="https://linkedin.com/in/Tushr-slowfit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Tushr_slowfit">
