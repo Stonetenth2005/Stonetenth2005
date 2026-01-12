@@ -72,7 +72,7 @@ I believe code should not just work, it should **dazzle**. 🌟
   <a href="https://linkedin.com/in/tushar-srivastava-8a0927253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Tushr_slowfi" target="_blank">
+  <a href="https://twitter.com/Tushr_slowfit" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
