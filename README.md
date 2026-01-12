@@ -62,10 +62,6 @@ Recently I’ve been exploring deep learning, small-scale LLMs, and how to bring
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stonetenth2005&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Stonetenth2005&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## Connect
