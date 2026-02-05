@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-Hey! I'm Tushar — I enjoy working where **machine learning**, **software engineering**, and **design** meet.
+Hey! I'm Tushar - I enjoy working where **machine learning**, **software engineering**, and **design** meet.
 
 I like building things that:
 - are technically solid,
