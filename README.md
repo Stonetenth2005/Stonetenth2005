@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:FF0080&height=230&section=header&text=Tushar%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,50:D97706,100:FFB86C&height=230&section=header&text=Tushar%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
